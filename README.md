@@ -1,6 +1,6 @@
 # Purfakt's redox layout
 
-This is my custom [https://github.com/mattdibi/redox-keyboard](redox) keyboard layout. It's basically the default layout with the `left shift` and `alt` keys swapped.
+This is my custom [redox](https://github.com/mattdibi/redox-keyboard) keyboard layout. It's basically the default layout with the `left shift` and `alt` keys swapped.
 
 I also added a 4th layer which:
 - brings back `left shift` to the left side,
