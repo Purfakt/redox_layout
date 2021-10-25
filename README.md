@@ -14,6 +14,6 @@ Made with [config.qmk.fm](https://config.qmk.fm/).
 
 Layers 2 and 3 are not shown as they are the same as the [default layout](https://config.qmk.fm/#/redox/rev1/LAYOUT)
 
-[layer 0 (default)](images/layer0.png "Layer 0 (default)")
-[layer 1](images/layer1.png "Layer 1")
-[layer 4](images/layer4.png "Layer 4")
+![layer 0 (default)](https://github.com/Purfakt/redox_layout/blob/main/images/layer0.png "Layer 0 (default)")
+![layer 1](https://github.com/Purfakt/redox_layout/blob/main/images/layer1.png "Layer 1")
+![layer 4](https://github.com/Purfakt/redox_layout/blob/main/images/layer4.png "Layer 4")
